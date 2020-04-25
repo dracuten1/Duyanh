@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Duyanh/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Duyanh/static/js/main.5c6fca8d.chunk.js",
+    "main.js.map": "/Duyanh/static/js/main.5c6fca8d.chunk.js.map",
+    "runtime-main.js": "/Duyanh/static/js/runtime-main.73bdde4d.js",
+    "runtime-main.js.map": "/Duyanh/static/js/runtime-main.73bdde4d.js.map",
+    "static/css/2.076a1fae.chunk.css": "/Duyanh/static/css/2.076a1fae.chunk.css",
+    "static/js/2.a723183f.chunk.js": "/Duyanh/static/js/2.a723183f.chunk.js",
+    "static/js/2.a723183f.chunk.js.map": "/Duyanh/static/js/2.a723183f.chunk.js.map",
+    "index.html": "/Duyanh/index.html",
+    "precache-manifest.d8ba7f907b0ebfdead2ba6063a615c0a.js": "/Duyanh/precache-manifest.d8ba7f907b0ebfdead2ba6063a615c0a.js",
+    "service-worker.js": "/Duyanh/service-worker.js",
+    "static/css/2.076a1fae.chunk.css.map": "/Duyanh/static/css/2.076a1fae.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/Duyanh/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a723183f.chunk.js.LICENSE.txt": "/Duyanh/static/js/2.a723183f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bdde4d.js",
+    "static/css/2.076a1fae.chunk.css",
+    "static/js/2.a723183f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5c6fca8d.chunk.js"
+  ]
+}
